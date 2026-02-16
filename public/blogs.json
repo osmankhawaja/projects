@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Understanding React Basics",
+    "authorName": "John Smith",
+    "coverPic": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "authorPic": "https://randomuser.me/api/portraits/men/32.jpg",
+    "postedDate": "2026-02-01",
+    "readingTime": 5,
+    "hashtags": ["#React", "#JavaScript", "#Frontend"]
+  },
+  {
+    "id": 2,
+    "title": "Mastering Tailwind CSS",
+    "authorName": "Sarah Johnson",
+    "coverPic": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+    "authorPic": "https://randomuser.me/api/portraits/women/44.jpg",
+    "postedDate": "2026-01-28",
+    "readingTime": 7,
+    "hashtags": ["#TailwindCSS", "#CSS", "#WebDesign"]
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6 Deep Dive",
+    "authorName": "Michael Brown",
+    "coverPic": "https://images.unsplash.com/photo-1518779578993-ec3579fee39f",
+    "authorPic": "https://randomuser.me/api/portraits/men/65.jpg",
+    "postedDate": "2026-01-20",
+    "readingTime": 8,
+    "hashtags": ["#JavaScript", "#ES6", "#Programming"]
+  },
+  {
+    "id": 4,
+    "title": "Building Modern Web Apps",
+    "authorName": "Emily Davis",
+    "coverPic": "https://images.unsplash.com/photo-1505685296765-3a2736de412f",
+    "authorPic": "https://randomuser.me/api/portraits/women/68.jpg",
+    "postedDate": "2026-01-15",
+    "readingTime": 6,
+    "hashtags": ["#WebDevelopment", "#React", "#UIUX"]
+  },
+  {
+    "id": 5,
+    "title": "Node.js for Beginners",
+    "authorName": "David Wilson",
+    "coverPic": "https://images.unsplash.com/photo-1492724441997-5dc865305da7",
+    "authorPic": "https://randomuser.me/api/portraits/men/75.jpg",
+    "postedDate": "2026-01-10",
+    "readingTime": 4,
+    "hashtags": ["#NodeJS", "#Backend", "#JavaScript"]
+  }
+]
